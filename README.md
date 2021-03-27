@@ -7,7 +7,7 @@
 
 
 
-- 🎓 &nbsp; Studying front-end, and for now developing small websites to expand my learning..
+- 🎓 &nbsp; Studying front-end, and for now developing small websites to expand my learning.
 
 - 🌱 &nbsp; I want to learn more about the front-end world and for sure the best back-end technologies.
 
@@ -43,7 +43,7 @@
 
 
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/enzuu._/" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
 <a href="contato.enzorabello@gmail.com"><img alt="Email"></a>
 
